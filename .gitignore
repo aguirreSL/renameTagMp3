@@ -15,3 +15,7 @@ Thumbs.db  # Windows
 # Ignore IDE or editor files (optional)
 .vscode/
 .idea/
+
+# Environment Variables
+.env
+
